@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan Ali
-- 👀 I’m interested in Software Engineering and Competitve Programming 
+- 👀 I’m interested in Software Engineering and Competitive Programming 
 - 🌱 I’m Studying Computer Engineering Focusing on Computer Software 
 - 💞️ I’m looking to have a Software Engineering Internship
 - 🌍 Some Information About me : 
