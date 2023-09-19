@@ -4,14 +4,14 @@
 - 💞️ I’m looking to have a Software Engineering Internship
 - 🌍 Some Information About me : 
 -     Fast learner
--     Ready to learn about any technology related with Software Engineering
+-     Ready to learn about any technology related to Software Engineering
 -     Had a passion to learn new things and face new challenges.
 
 - 📫 How to reach me 
-  * Phone : +0201141991084
-  * Email : alhassanali599@gmail.com
-  * Facebook : https://www.facebook.com/alhassan.ali.7927
-  * Linked In : https://www.linkedin.com/in/al-hassan-ali-003b251a6/
+  * Phone: +0201141991084
+  * Email: alhassanali599@gmail.com
+  * Facebook: https://www.facebook.com/alhassan.ali.7927
+  * Linked In: https://www.linkedin.com/in/al-hassan-ali-003b251a6/
 
 
 <h3 align="left">Languages and Tools:</h3>
