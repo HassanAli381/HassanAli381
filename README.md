@@ -3,8 +3,7 @@
 - 🌱 I’m Studying Computer Engineering Focusing on Computer Software 
 - 💞️ I’m looking to have a Software Engineering Internship
 - 🌍 Some Information About me : 
--     Fast learner
--     Ready to learn about any technology related to Software Engineering
+-     Ready to learn any technology related to Software Engineering when it demands
 -     Had a passion to learn new things and face new challenges.
 
 - 📫 How to reach me 
