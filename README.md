@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hassan Ali
 - 👀 I’m interested in Software Engineering and Competitive Programming 
 - 🌱 I’m Studying Computer Engineering Focusing on Computer Software 
-- 💞️ I’m looking to have a Software Engineering Internship
+- 💞️ I’m extremely curious about learning new things and discovering the technology.
 - 🌍 Some Information About me : 
 -     Ready to learn any technology related to Software Engineering when it demands
 -     Had a passion to learn new things and face new challenges.
