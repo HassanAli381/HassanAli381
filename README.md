@@ -6,7 +6,7 @@
 
 
 - 👀 I’m interested in Software Engineering and Competitive Programming 
-- 🌱 I’m Studying Computer Engineering Focusing on Computer Software 
+- 🌱 I’m a Computer Engineering Graduate.
 - 💞️ I’m extremely curious about learning new things and discovering the technology.
 - 🌍 Some Information About me : 
 -     Ready to learn any technology related to Software Engineering when it demands
@@ -19,8 +19,6 @@
   * Linked In: https://www.linkedin.com/in/al-hassan-ali-003b251a6/
 
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -52,6 +50,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
