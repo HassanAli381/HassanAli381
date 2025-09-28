@@ -1,96 +1,56 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hassan+Ali....;Software+Engineer;Back-End+Developer;Competitive+Programmer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hassan+Ali....;Software+Engineer;Full-Stack+Developer;Competitive+Programmer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
+## 👋 About Me  
 
-- 👀 I’m interested in Software Engineering and Competitive Programming 
-- 🌱 I’m a Computer Engineering Graduate.
-- 💞️ I’m extremely curious about learning new things and discovering the technology.
-- 🌍 Some Information About me : 
--     Ready to learn any technology related to Software Engineering when it demands
--     Had a passion to learn new things and face new challenges.
+- 👀 Interested in **Software Engineering** and **Competitive Programming**  
+- 🎓 **Computer Engineering Graduate**  
+- 💡 Curious by nature, always eager to explore and learn new technologies  
+- 🌍 Open to challenges and ready to adapt to any software engineering domain  
 
-- 📫 How to reach me 
-  * Phone: +0201141991084
-  * Email: alhassanali599@gmail.com
-  * Facebook: https://www.facebook.com/alhassan.ali.7927
-  * Linked In: https://www.linkedin.com/in/alhassan-ali1/
 
+## 📫 How to reach me  
+
+[![Phone](https://img.shields.io/badge/Phone-%2B20%20114%20199%201084-25D366?logo=whatsapp&logoColor=white)](tel:+201141991084)  
+[![Email](https://img.shields.io/badge/Email-alhassanali599%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:alhassanali599@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-Al--Hassan%20Ali-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/alhassan.ali.7927)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Al--Hassan%20Ali-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhassan-ali1/)  
 
 <p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
- 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a> 
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
+![Java](https://img.shields.io/badge/-Java-black?logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-black?logo=C)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
+### Technologies:
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-black?logo=spring)
 
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![Angular.js](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-
-
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
 </p>
 
